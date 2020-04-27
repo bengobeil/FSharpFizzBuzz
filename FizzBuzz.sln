@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz.Guerilla", "FizzBuzz.Guerilla\FizzBuzz.Guerilla.fsproj", "{AB309907-8D96-4C70-A3B1-29961D5DF752}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz", "FizzBuzz\FizzBuzz.fsproj", "{2CDB5890-61E4-465E-9BED-26054AD1C0C7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz.CLI", "FizzBuzz.CLI\FizzBuzz.CLI.fsproj", "{1AF99756-D2C6-4B0C-B562-6F55EF4E8AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB309907-8D96-4C70-A3B1-29961D5DF752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB309907-8D96-4C70-A3B1-29961D5DF752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB309907-8D96-4C70-A3B1-29961D5DF752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB309907-8D96-4C70-A3B1-29961D5DF752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDB5890-61E4-465E-9BED-26054AD1C0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDB5890-61E4-465E-9BED-26054AD1C0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDB5890-61E4-465E-9BED-26054AD1C0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDB5890-61E4-465E-9BED-26054AD1C0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF99756-D2C6-4B0C-B562-6F55EF4E8AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF99756-D2C6-4B0C-B562-6F55EF4E8AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF99756-D2C6-4B0C-B562-6F55EF4E8AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF99756-D2C6-4B0C-B562-6F55EF4E8AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
